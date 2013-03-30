@@ -1,0 +1,11 @@
+host: bheesham.com
+duration: 5
+pages: 
+  - url: /humans.html
+    method: GET
+    cookies: none
+    clients: 20
+  - url: /robots.txt
+    method: GET
+    cookies: none
+    clients: 20

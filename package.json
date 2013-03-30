@@ -1,0 +1,20 @@
+{
+  "name": "Gozer",
+  "description": "A load tester.",
+  "version": "0.0.1",
+  "homepage": "",
+  "author": {
+    "name": "Bheesham Persaud",
+    "email": "bheesham.persaud@live.ca"
+  },
+  "bin": "bin/gozer.js",
+  "keywords": [
+    "load", "tester"
+  ],
+  "dependencies": {
+    "js-yaml": "2.0.3",
+    "phantom-proxy": "0.1.792",
+    "coffee-script": "1.6.2",
+    "cli-color": "~0.2.1"
+  }
+}

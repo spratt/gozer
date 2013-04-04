@@ -31,5 +31,5 @@ exports.taunt = (duration, config) ->
     maxDiskCache: 0
   , taunt);
 
-taunt = (proxy, config) ->
+taunt = (proxy) ->
   exports.log("boo!")
